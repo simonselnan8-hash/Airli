@@ -4,6 +4,10 @@ I recently completed an Airline Performance Analysis project using Power BI to e
 
 The dashboard analyzes key performance indicators, including revenue, profit, passenger volume, fuel costs, payment methods, and customer segments.
 
+### Dashboard
+<img width="800" height="400" alt="my airline analysis dash" src="https://github.com/user-attachments/assets/769d8e8a-e02a-4ce1-9de5-ad9be2d38120" />
+
+
  ### Key Insights
 - $92M Total Revenue
 - $57M Total Profit
